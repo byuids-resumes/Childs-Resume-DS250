@@ -6,8 +6,7 @@ title: Ethan Childs' CV
 BYU - Idaho Data Science
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="ee11.childs@gmail.com">ee11.childs@gmail.com</a>
 </div>
 
 
